@@ -1,4 +1,84 @@
 {
-  "products" : [
+  "products": [
+    {
+      "id": "1",
+      "title": "Camiseta Estampada",
+      "price": 39.99,
+      "description": "Camiseta de algodão com estampa exclusiva.",
+      "category": "Roupas",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjY1dU2OewOoEdm9C0Wal4OWsjlB6VWF3WtQ&s"
+    },
+    {
+      "id": "2",
+      "title": "Tênis Esportivo",
+      "price": 149.90,
+      "description": "Tênis com tecnologia de amortecimento.",
+      "category": "Calçados",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8LvhAifWFuX54Y29l3gX_f7A61dNuV0PJg&s"
+    },
+    {
+      "id": "3",
+      "title": "Relógio Digital",
+      "price": 89.50,
+      "description": "Relógio com display digital e pulseira de silicone.",
+      "category": "Acessórios",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnp3G-nb-GA_u7owwBFTSvPVR0GTt2xRAQbg&s"
+    },
+    {
+      "id": "4",
+      "title": "Fone de Ouvido Bluetooth",
+      "price": 129.00,
+      "description": "Fone de ouvido sem fio com cancelamento de ruído.",
+      "category": "Eletrônicos",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9uDsPM2PZu5wTF0fB4CWzrxVzSnujJ7dGfg&s"
+    },
+    {
+      "id": "5",
+      "title": "Cadeira Gamer",
+      "price": 599.99,
+      "description": "Cadeira ergonômica para gamers.",
+      "category": "Móveis",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4P8HtHw2RQu-lCrRp2KVy7Jh03L1F0GN_Uw&s"
+    },
+    {
+      "id": "6",
+      "title": "Smartphone Android",
+      "price": 999.90,
+      "description": "Smartphone com câmera de 48MP e 128GB de armazenamento.",
+      "category": "Eletrônicos",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzah0nrQKGIXPopsdlZIP8P4pZqFTFF0WXYQ&s"
+    },
+    {
+      "id": "7",
+      "title": "Cafeteira Elétrica",
+      "price": 199.99,
+      "description": "Cafeteira com capacidade para 12 xícaras.",
+      "category": "Eletrodomésticos",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqeGc5POFAae_pxcQ_PnLIe_4gZpl2YSjSbQ&s"
+    },
+    {
+      "id": "8",
+      "title": "Mochila de Couro",
+      "price": 249.90,
+      "description": "Mochila de couro legítimo com compartimentos internos.",
+      "category": "Acessórios",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzzsPWqSxe5rBSGlIrnqUVyTSwslSdRv4GA&s"
+    },
+    {
+      "id": "9",
+      "title": "Kit de Maquiagem",
+      "price": 79.90,
+      "description": "Kit com batom, sombra e delineador.",
+      "category": "Beleza",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYek2YmZKIMbgUfOJzvCORHXg9N8zSAAFsg&s"
+    },
+    {
+      "id": "10",
+      "title": "Câmera Fotográfica",
+      "price": 1299.00,
+      "description": "Câmera DSLR com lente de 18-55mm.",
+      "category": "Eletrônicos",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTfINx7ebnQVlG9rbhjEhuPjFBoINQzrCAEoGwsxwiVmiHPzCeWUQRRqSYO-EZnwl2QurNlmGLlqpWKNmX5nxy77lYcST6tj13T8_UkVynnY6o46Kn1pxBL"
+    }
   ]
 }
